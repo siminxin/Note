@@ -1,5 +1,5 @@
 ## git基本使用
-- git clone【https://github.com/siminxin/Note】  首先添加远程地址（精确到库，无【】）
+- git clone https://github.com/siminxin/Note  首先添加远程地址（精确到库，无【】）
 
 - rm 删除文件
 
